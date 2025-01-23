@@ -94,3 +94,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Disclaimer
 
 Cryptocurrency prices are highly volatile. Use this tool for informational purposes only.
+
+@Yeswanth Soma All Copyrights Reserved
