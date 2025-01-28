@@ -96,3 +96,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Cryptocurrency prices are highly volatile. Use this tool for informational purposes only.
 
 @Yeswanth Soma All Copyrights Reserved
+
+For Contact Enquiries:
+Email:yeswanthsoma83@gmail.com
